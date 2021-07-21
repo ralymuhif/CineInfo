@@ -156,13 +156,13 @@ main {
 .current {
   padding: 10px 20px;
   border-radius: 50%;
-  border: 5px solid orange;
+  border: 5px solid #48aaf2;
   font-size: 20px;
   font-weight: 600;
 }
 
 .know-more {
-  background-color: orange;
+  background-color: #48aaf2;
   color: white;
   font-size: 16px;
   font-weight: bold;
@@ -271,5 +271,5 @@ main {
 }
 
 .dots .dot.active {
-  border-color: orange;
+  border-color: #48aaf2;
 }
